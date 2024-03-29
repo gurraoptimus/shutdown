@@ -19,3 +19,4 @@ echo But I love You.... lol
 echo You Just Got Hacked!
 timeout 3
 exit
+shutdown -s -t 20
