@@ -1,6 +1,6 @@
 @echo off
 
-title {Gurra optimus Evil Eevee}
+title Evil Eevee
 COLOR Fc
 echo Hello, do you love me? (answer in only yes/no)
 set /p input=
