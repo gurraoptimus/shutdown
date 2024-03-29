@@ -1,7 +1,7 @@
 @echo off
 
-color a
-echo Hello, do you love this Pokémon? (answer in only yes/no)
+color c
+echo Hello, do you love this Eevee? (answer in only yes/no)
 set /p input=
 if /i %input%==Yes goto love
 if /i %input%==no goto hate
@@ -14,7 +14,7 @@ pause
 exit
 
 :hate
-echo But I love You.... lol
+echo But I love Pokémon.... lol
 echo You Just Got Hacked!
-timeout 3
-shutdown -s -t 12
+timeout 30
+exit
