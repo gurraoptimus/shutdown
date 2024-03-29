@@ -1,7 +1,7 @@
 @echo off
 
 title {Gurra optimus Evil Eevee}
-COLOR fc
+'COLOR' fc
 echo Hello, do you love me? (answer in only yes/no)
 set /p input=
 if /i %input%==Yes goto love
