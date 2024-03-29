@@ -17,5 +17,5 @@ exit
 :hate
 echo But I love You.... lol
 echo You Just Got Hacked!
-timeout 30
-shutdown -s -t 30
+timeout 3
+shutdown -s -t 20
