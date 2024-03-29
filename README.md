@@ -1,5 +1,5 @@
-# [Eevee](Eevee.txt)
+# [EvilEevee](evo.txt)
 ## this Program shutdown your pc and it is a bat file
 ```
-curl https://raw.githubusercontent.com/gurraoptimus/evo/Eevee.txt -o EvilEevee.bat
+curl https://raw.githubusercontent.com/gurraoptimus/evo/evo.txt -o EvilEevee.bat
 ```
