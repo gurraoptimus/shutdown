@@ -1,7 +1,7 @@
 @echo off
 
-title "shutdown"
-COLOR fc
+title shutdown
+COLOR 404
 echo do you want shutdown (yes/no)
 set /p input=
 if /i %input%==Yes goto on
