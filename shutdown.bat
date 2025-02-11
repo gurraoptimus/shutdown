@@ -2,7 +2,7 @@
 
 mode 70,20
 title shutdown
-COLOR 20
+COLOR A2
 echo do you want shutdown (yes/no)
 set /p input=
 if /i %input%==no goto on
