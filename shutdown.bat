@@ -1,7 +1,7 @@
 @echo off
 
 title shutdown
-COLOR D6
+COLOR 69
 echo do you want shutdown (yes/no)
 set /p input=
 if /i %input%==no goto on
