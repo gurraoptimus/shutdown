@@ -4,8 +4,8 @@ title shutdown
 COLOR 404
 echo do you want shutdown (yes/no)
 set /p input=
-if /i %input%==Yes goto on
-if /i %input%==no goto off
+if /i %input%==no goto on
+if /i %input%==Yes goto off
 if /i not %input%== Yes,no goto 1
 
 :on
