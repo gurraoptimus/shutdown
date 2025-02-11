@@ -1,6 +1,6 @@
 @echo off
 
-mode 20 60
+mode 20,60
 title shutdown
 COLOR 20
 echo do you want shutdown (yes/no)
